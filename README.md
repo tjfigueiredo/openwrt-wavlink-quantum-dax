@@ -5,6 +5,8 @@ Configure Openwrt in Wavlink Quantum DAX (almost the same as Phicomm K3)
 
 ## Some notes: ##
 - THIS PROCEDURE WILL VOID YOUR WARRANTY AND CAN BRICK YOUR ROUTER!!
+- This document explains the procedure I followed to install Openwrt in my router and I'm don't encourage you to do the same if you're not comfortable with the possibility of damaging your router. Every piece of hardware can be different...
+- I'm not responsible for any problem occurred when following this steps
 - This instructions were made to run in a Linux based PC
 - This seems to be a nice piece of hardware for the price (you can find it for around €30)
 - This device seems to be a rebrand of Phicomm K3 (with some protection against changing the firmware, of course...)
