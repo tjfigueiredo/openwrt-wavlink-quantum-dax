@@ -127,7 +127,7 @@ How to replace the driver?
 6. Restart the router
 
 ### No WAN interface: ###
-After the installation my WAM interface wasn't working (no signal when cable is connected). The workaround found for this was to setup of the LAN ports to act as the WAN port.
+After the installation my WAN interface wasn't working (no signal when cable is connected). The workaround found for this was to setup of the LAN ports to act as the WAN port.
 To do so:
 - Go to "Network -> Interfaces -> WAN -> Edit -> Device" and change "wan" to "Swicth port: lan3"
 - Go to "Network -> Interfaces -> WAN6 -> Edit -> Device" and change "wan" to "Swicth port: lan3"
